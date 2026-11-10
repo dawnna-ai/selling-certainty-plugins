@@ -1,0 +1,44 @@
+{
+  "name": "selling-certainty",
+  "owner": {
+    "name": "Selling Certainty"
+  },
+  "plugins": [
+    {
+      "name": "clyde",
+      "source": "./plugins/clyde",
+      "description": "Client delivery guidance that turns PJ discovery into developed business foundations, coordinated work, verified implementation and measurable progress.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "emma",
+      "source": "./plugins/emma",
+      "description": "Email marketing strategy and production that advances client priorities through authorized Ready, with verified content, preserved versions and a clear downstream sending handoff.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "lena",
+      "source": "./plugins/lena",
+      "description": "Qualified lead generation through targeted research, authorized outreach, relationship follow-up, opportunity tracking and complete handoffs within the active client engagement.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "pj",
+      "source": "./plugins/pj",
+      "description": "Pickle Jar Run discovery guidance for next-best questions, five-P coverage, evidence preservation, sufficiency assessment and trustworthy handoff to Clyde.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "quinn",
+      "source": "./plugins/quinn",
+      "description": "Executive assistance and agent operations for Dawnna\u2019s assigned work, using focused retrieval, authorized record updates, proportionate verification and clear follow-through.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "sofia",
+      "source": "./plugins/sofia",
+      "description": "Social media strategy and audience activation through approved content, cleared asset selection, authorized scheduling, verified distribution and durable learning.",
+      "version": "1.0.0"
+    }
+  ]
+}
