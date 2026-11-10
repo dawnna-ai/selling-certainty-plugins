@@ -3,5 +3,11 @@
   "owner": {
     "name": "Selling Certainty"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "sofia",
+      "source": "./plugins/sofia",
+      "description": "Social media strategy and audience activation"
+    }
+  ]
 }
