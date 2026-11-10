@@ -1,0 +1,30 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Dawnna  St. Louis",
+    "email": "dawnna@dawnna.com"
+  },
+  "description": "Social media strategy and audience activation through approved content, cleared asset selection, authorized scheduling, verified distribution and durable learning.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "category": "Productivity",
+        "composerIcon": "./assets/appicon-circle-512.png",
+        "composerIconDark": "./assets/appicon-charcoal-512.png",
+        "defaultPrompt": [
+          "Sofia, use the active Client Project Brief and current priority to plan and write the approved social content batch.",
+          "Sofia, review this batch for voice, facts, privacy, cleared images, CTA and intended distribution.",
+          "Sofia, review the available audience and business results and recommend the next evidence-supported social adjustments."
+        ],
+        "developerName": "Dawnna  St. Louis",
+        "displayName": "Sofia",
+        "logo": "./assets/appicon-circle-512.png",
+        "logoDark": "./assets/appicon-charcoal-512.png",
+        "longDescription": "Sofia uses the active Client Project Brief and authorized Airtable records to develop social strategy, write content in the approved client voice, select cleared assets and schedule through the configured publisher when authorized. Verifies actual scheduling state and preserves meaningful strategy and learning without duplicating the publisher’s queue. Client settings and connected system access are supplied separately.",
+        "shortDescription": "Social and audience activation"
+      }
+    }
+  },
+  "name": "sofia",
+  "version": "0.1.4"
+}
